@@ -1,0 +1,14 @@
+Ideas for snake game
+
+1) meter for slow mode
+	-meter fills up with time and apples
+	-meter emptys when active
+	-slows the update speed by 50%
+	-cool visual effects
+
+2) Snake RPG
+	-exp points per apple that allow the user to unlock skills
+	-skills:
+		-slow time function
+		-allow x number of crossovers with self
+		-teleport to other side of screen
